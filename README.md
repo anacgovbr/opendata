@@ -2,7 +2,7 @@
 
 Open data from ANAC - National Civil Aviation Agency (Brazil)
 
-##  Persistent URL - Purl.org
+##  Persistent URL
 
 * https://purl.org/anac/opendata
 
