@@ -2,8 +2,6 @@
 
 Open data from ANAC - National Civil Aviation Agency (Brazil)
 
-Dados abertos da ANAC - Agência Nacional de Aviação Civil (Brasil)
-
 ##  Persistent URL - Purl.org
 
 * https://purl.org/anac/opendata
@@ -15,3 +13,7 @@ A persistent URL is one that never changes. Persistent URLs are designed so that
 ## Repository
 
 * https://sistemas.anac.gov.br/dadosabertos
+
+## Visualization
+
+* [Compiled Regulation](https://flatgithub.com/anacgovbr/opendata?filename=regulamentos-anac-tags.csv) (pt)
