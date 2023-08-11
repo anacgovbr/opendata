@@ -16,4 +16,7 @@ A persistent URL is one that never changes. Persistent URLs are designed so that
 
 ## Visualization
 
-* [Compiled Regulation - Flatdata Viewer (maximum recall)](https://flatgithub.com/anacgovbr/opendata?filename=regulamentos-anac-tags.csv) (pt) and [Compiled Regulation - Datasette lite (maximum precision)](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/anacgovbr/opendata/main/regulamentos-anac-tags.csv) (pt)
+### Regulations
+
+* [Compiled Regulations - Flatdata Viewer (maximum recall)](https://flatgithub.com/anacgovbr/opendata?filename=regulamentos-anac-tags.csv) (pt)
+* [Compiled Regulations - Datasette lite (maximum precision)](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/anacgovbr/opendata/main/regulamentos-anac-tags.csv) (pt)
