@@ -16,6 +16,7 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
+          token: ${{ secrets.OPENDATA }}
       - name: Check out repo
         uses: actions/checkout@v3
         
@@ -43,7 +44,6 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          token: ${{ secrets.OPENDATA }}
           http_url: https://sistemas.anac.gov.br/dadosabertos/Aeronaves/drones%20cadastrados/SISANT.json
           downloaded_filename: anac/drones.json
 #      - name: Fetch data
