@@ -17,7 +17,7 @@ jobs:
         with:
           deno-version: v1.x
       - name: Check out repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         
 # URL dos dados a serem baixados (http_url) e on nomes dos arquivos (downloaded_filename)      
 #      - name: Fetch data
@@ -41,7 +41,7 @@ jobs:
 #          http_url:  https://sistemas.anac.gov.br/dadosabertos/Aeronaves/Empresas%20Brasileiras%20Certificadas%20para%20fabrica%C3%A7%C3%A3o%20de%20Produtos%20Aeron%C3%A1uticos/EmpresasBrasileirasCertificadas.json
 #          downloaded_filename: anac/produtos-aeronauticos-empresas-brasileiras-certificadas.json
       - name: Fetch data
-        uses: githubocto/flat@v3
+        uses: githubocto/flat@v4
         with:
           http_url: https://sistemas.anac.gov.br/dadosabertos/Aeronaves/drones%20cadastrados/SISANT.json
           downloaded_filename: anac/drones.json
