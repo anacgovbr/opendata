@@ -12,7 +12,9 @@ jobs:
   schedule:
     runs-on: ubuntu-latest
     permissions:
-      issues: write    
+      issues: write
+      pull-requests: write
+      repository-projects: write
     steps:
       - name: Setup deno
         uses: denoland/setup-deno@main
