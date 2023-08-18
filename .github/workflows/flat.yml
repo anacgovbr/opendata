@@ -11,12 +11,14 @@ on:
 jobs:
   schedule:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write    
     steps:
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
-          token: ${{ secrets.OPENDATA }}
+#          token: ${{ secrets.OPENDATA }}
       - name: Check out repo
         uses: actions/checkout@v3
         
