@@ -11,13 +11,13 @@ on:
 jobs:
   schedule:
     runs-on: ubuntu-latest
-    permissions: write-all
+    permissions:
+      contents: write
     steps:
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
-#          token: ${{ secrets.OPENDATA }}
       - name: Check out repo
         uses: actions/checkout@v3
         
@@ -47,11 +47,11 @@ jobs:
         with:
           http_url: https://sistemas.anac.gov.br/dadosabertos/Aeronaves/drones%20cadastrados/SISANT.json
           downloaded_filename: anac/drones.json
-#      - name: Fetch data
-#        uses: githubocto/flat@v3
-#        with:
-#          http_url: https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.json
-#          downloaded_filename: anac/aeronaves.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aeronaves/RAB/dados_aeronaves.json
+          downloaded_filename: anac/aeronaves.json
 #      - name: Fetch data
 #        uses: githubocto/flat@v3
 #        with:
