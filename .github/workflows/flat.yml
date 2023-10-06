@@ -1,4 +1,4 @@
-# Wokflow para baixar dados abertos da ANAC de segunda a sexta, das 03 as 06 da manhã.
+# Wokflow para baixar dados abertos da ANAC de segunda a sábado, das 03 as 06 da manhã.
 
 name: flat-data-anac
 on:
