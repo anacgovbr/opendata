@@ -54,13 +54,53 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Lista%20de%20aer%C3%B3dromos%20privados/Aerodromos%20Privados/AerodromosPrivados.json
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20Privados/Lista%20de%20aer%C3%B3dromos%20privados/Aerodromos%20Privados/AerodromosPrivados.json
           downloaded_filename: anac/aerodromos-privados.json
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Lista%20de%20aer%C3%B3dromos%20p%C3%BAblicos/AerodromosPublicos.json
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20Privados/Lista%20de%20aer%C3%B3dromos%20privados/Helideck/Helidecks.json
+          downloaded_filename: anac/aerodromos-privados-helidecks.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20Privados/Lista%20de%20aer%C3%B3dromos%20privados/Heliponto/Helipontos.json
+          downloaded_filename: anac/aerodromos-privados-helipontos.json  
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Lista%20de%20aer%C3%B3dromos%20p%C3%BAblicos/AerodromosPublicos.json
           downloaded_filename: anac/aerodromos-publicos.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Caracter%C3%ADsticas%20Gerais/pda_aerodromos_publicos_caracteristicas_gerais.csv
+          downloaded_filename: anac/aerodromos-publicos-categorias-gerais.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Pistas%20de%20Pouso%20e%20Decolagem/pda_aerodromos_publicos_pistas_pouso_decolagem.json
+          downloaded_filename: anac/aerodromos-publicos-pistas-pouso-decolagem.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Dados%20P%C3%A1tio/V_AERODROMO_PUBLICO_DADOS_PATIO.json
+          downloaded_filename: anac/aerodromos-publicos-dados-patio.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Dados%20P%C3%A1tio/pda_aerodromos_publicos_patio_aeronaves.json
+          downloaded_filename: anac/aerodromos-publicos-dados-patio-aeronaves.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Pistas%20de%20T%C3%A1xi/pda_aerodromos_publicos_pistas_de_taxi.csv
+          downloaded_filename: anac/aerodromos-publicos-pistas-de-taxi.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Posicoes_Estacionamento/pda_aerodromos_publicos_posicoes_estacionamento.json
+          downloaded_filename: anac/aerodromos-publicos-posicoes-estacionamento.json
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
