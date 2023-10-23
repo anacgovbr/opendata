@@ -26,19 +26,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-67-003@@download/arquivo_norma/IS67-003C.pdf"
   }, 
   {
-    "ementa": "Lista de equipamentos e acessórios de aeronave considerados não essenciais", 
-    "norma": "IS 118-001A", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "10/06/2016", 
-    "outros": "", 
-    "tipo_normatico": "Instrução Normativa", 
-    "publicacao": "10/06/2016", 
-    "revogada": "", 
-    "em_vigor": "", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-118-001@@download/arquivo_norma/IS118-001A - SAR.pdf"
-  }, 
-  {
     "ementa": "Certification of Foreign Maintenance Organization", 
     "norma": "IS 145-002B", 
     "tornada_sem_efeito": "", 
@@ -494,19 +481,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-1225-001@@download/arquivo_norma/IS121.1225-001A.pdf"
   }, 
   {
-    "ementa": "Processo de certificação de empresa aeroagrícola", 
-    "norma": "IS 137-003A", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "26/06/2015", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "26/06/2015", 
-    "revogada": "", 
-    "em_vigor": "", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-137-003@@download/arquivo_norma/IS137-003A.pdf"
-  }, 
-  {
     "ementa": "Instruções para elaboração do Manual Geral de Manutenção (MGM) - táxis aéreos operando exclusivamente aeronaves com configuração máxima para passageiros igual ou inferior a 9 (nove) assentos.", 
     "norma": "IS 135.21-001A", 
     "tornada_sem_efeito": "", 
@@ -676,32 +650,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-004@@download/arquivo_norma/IS121-004A.pdf"
   }, 
   {
-    "ementa": "Procedimentos para elaboração, revisão e utilização do Manual Geral de Operações (MGO) de operadores aéreos regidos pelo RBAC nº 121.", 
-    "norma": "IS 121-005D", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "22/01/2021", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "22/01/2021", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 1º de fevereiro de 2021.", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-005@@download/arquivo_norma/IS121-005D.pdf"
-  }, 
-  {
-    "ementa": "Procedimentos para validação de centro de treinamento de aviação civil estrangeiro.", 
-    "norma": "IS 142-002C", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "26/01/2018", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "29/01/2018", 
-    "revogada": "", 
-    "em_vigor": "", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-142-002@@download/arquivo_norma/IS142-002C.pdf"
-  }, 
-  {
     "ementa": "Programa de degelo e antigelo no solo.", 
     "norma": "IS 119-005A", 
     "tornada_sem_efeito": "", 
@@ -858,19 +806,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-010@@download/arquivo_norma/IS121-010A.pdf"
   }, 
   {
-    "ementa": "Diretrizes Interpretativas aplicáveis às normas de âmbito da Superintendência de Padrões Operacionais", 
-    "norma": "IS 00-004I", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "23/03/2022", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "25/03/2022", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 1º de abril de 2022", 
-    "anexos": ""
-  }, 
-  {
     "ementa": "Instruções para preenchimento completo e adequado do Conhecimento de Transporte eletrônico - CT-e - e do Manifesto de Documentos Fiscais eletrônico - MDF-e.", 
     "norma": "IS 175-003D", 
     "tornada_sem_efeito": "", 
@@ -975,19 +910,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-137-001@@download/arquivo_norma/IS137-001C.pdf"
   }, 
   {
-    "ementa": "Procedimentos para realização de inspeção de rampa em operadores aéreos no território brasileiro.", 
-    "norma": "IS 00-009C", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "01/07/2021", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "02/07/2021", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 2 de agosto de 2021.", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-009@@download/arquivo_norma/IS00-009C.pdf"
-  }, 
-  {
     "ementa": "Manual de Artigos Perigosos – MAP.", 
     "norma": "IS 175-006D", 
     "tornada_sem_efeito": "", 
@@ -1051,19 +973,6 @@
     "revogada": "", 
     "em_vigor": "Em vigor em 1º de novembro de 2022", 
     "anexos": ""
-  }, 
-  {
-    "ementa": "Processo de autorização de empresas de serviço aéreo público especializado.", 
-    "norma": "IS 91-007C", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "15/12/2021", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "17/12/2021", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 3 de janeiro de 2022.", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-007@@download/arquivo_norma/IS91-007C.pdf"
   }, 
   {
     "ementa": "Certificação de organizações de manutenção domésticas.", 
@@ -1729,19 +1638,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-007@@download/arquivo_norma/IS119-007A.pdf"
   }, 
   {
-    "ementa": "Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras", 
-    "norma": "IS 21-004F", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "30/08/2022", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "01/09/2022", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 3 de outubro de 2022", 
-    "anexos": ""
-  }, 
-  {
     "ementa": "Sobrevoo de área densamente povoada por aeronave experimental.", 
     "norma": "IS 91.319-001A", 
     "tornada_sem_efeito": "", 
@@ -1794,17 +1690,17 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-91-013@@download/arquivo_norma/IS91-013A.pdf"
   }, 
   {
-    "ementa": "Procedimentos para autorização para operações de helicópteros com carga externa segundo o RBAC nº 133.", 
-    "norma": "IS 133-001A", 
+    "ementa": "Orientações sobre certificação de tipo", 
+    "norma": "IS 21-001A", 
     "tornada_sem_efeito": "", 
     "alterada": "", 
-    "data": "18/11/2021", 
+    "data": "04/11/2021", 
     "outros": "", 
     "tipo_normatico": "IS", 
-    "publicacao": "26/11/2021", 
+    "publicacao": "12/11/2021", 
     "revogada": "", 
-    "em_vigor": "Em vigor em 3 de janeiro de 2022.", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-133-001@@download/arquivo_norma/IS133-001A.pdf"
+    "em_vigor": "Em vigor em 1º de dezembro de 2021.", 
+    "anexos": ""
   }, 
   {
     "ementa": "Projeto de sistemas de desaceleração de aeronaves.", 
@@ -2587,32 +2483,6 @@
     "anexos": ""
   }, 
   {
-    "ementa": "Procedimentos para elaboração do manual geral de operações (MGO) dos operadores aéreos regidos pelo RBAC nº 135", 
-    "norma": "IS 135-002E", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "24/04/2023", 
-    "outros": "", 
-    "tipo_normatico": "CE/SC", 
-    "publicacao": "24/04/2023", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 2 de maio de 2023", 
-    "anexos": ""
-  }, 
-  {
-    "ementa": "Transporte de artigos perigosos em aeronaves civis", 
-    "norma": "IS 175-001I", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "20/04/2023", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "24/04/2023", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 2 de maio de 2023", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-001@@download/arquivo_norma/IS175-001I.pdf"
-  }, 
-  {
     "ementa": "Autorização de projeto de Sistema de Aeronave Remotamente Pilotada (RPAS) destinado à aplicação de agrotóxicos e afins, adjuvantes, fertilizantes, inoculantes, corretivos e sementes", 
     "norma": "IS E94.5-001A", 
     "tornada_sem_efeito": "", 
@@ -2792,6 +2662,149 @@
     "publicacao": "30/08/2023", 
     "revogada": "", 
     "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Aprovação de Grandes Modificações e de Dados Técnicos para Grandes Alterações em aeronaves com marcas brasileiras, ou que venham a ter marcas brasileiras", 
+    "norma": "IS 21-004G", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "01/09/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "11/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Transporte de artigos perigosos em aeronaves civis", 
+    "norma": "IS 175-001J", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "08/08/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "14/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ", https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-175-001@@download/anexo_norma/IS_175_001J.pdf"
+  }, 
+  {
+    "ementa": "Procedimentos para elaboração, revisão e utilização do Manual Geral de Operações (MGO) de operadores aéreos regidos pelo RBAC nº 121", 
+    "norma": "IS 121-005E", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/09/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "22/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Procedimentos para elaboração do manual geral de operações (MGO) dos operadores aéreos regidos pelo RBAC nº 135", 
+    "norma": "IS 135-002F", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/09/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "22/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Processo de cadastramento de operador aeroagrícola", 
+    "norma": "IS 137-003B", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/08/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "22/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Processo de autorização de empresas de serviço aéreo especializado", 
+    "norma": "IS 91-007D", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/09/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "22/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Diretrizes Interpretativas aplicáveis às normas de âmbito da Superintendência de Padrões Operacionais", 
+    "norma": "IS 00-004J", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/09/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "22/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Orientações aos operadores aéreos nacionais para inspeção de rampa no território brasileiro", 
+    "norma": "IS 00-009D", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/09/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "22/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Procedimentos para autorização para operações de helicópteros com carga externa segundo o RBAC nº 133", 
+    "norma": "IS 133-001B", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/09/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "22/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Orientações para o gerenciamento do risco das operações aeroagrícolas sob o RBAC nº 137", 
+    "norma": "IS 137.215-001A", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/09/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "22/09/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 2 de outubro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Obtenção, alteração, suspensão, revogação e cassação de certificado de empresa de transporte aéreo regida pelo RBAC nº 135", 
+    "norma": "IS 119-004J", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "19/10/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "20/10/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 1º de novembro de 2023", 
     "anexos": ""
   }
 ]

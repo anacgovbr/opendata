@@ -273,19 +273,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-133@@download/arquivo_norma/RBAC133EMD02.pdf, https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-133@@download/anexo_norma/CEF RBAC-133.pdf"
   }, 
   {
-    "ementa": "Certificação e requisitos operacionais: operações aeroagrícolas.", 
-    "norma": "RBAC 137 EMD 04", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "12/05/2020", 
-    "outros": "<a class=\"external-link\" href=\"https://www.anac.gov.br/assuntos/legislacao/legislacao-1/portarias/2023/portaria-11656\" target=\"_blank\" title=\"\"> Compêndio de Elementos de Fiscalização - CEF - em vigor em 2 de outubro de 2023</a>", 
-    "tipo_normatico": "RBAC", 
-    "publicacao": "15/05/2020", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 1º de junho de 2020.", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137@@download/arquivo_norma/RBAC137EMD04.pdf, https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137@@download/anexo_norma/CEF RBAC 137.pdf"
-  }, 
-  {
     "ementa": "Requisitos para qualificação e uso de dispositivos de treinamento para simulação de voo.", 
     "norma": "RBAC 60 EMD 00", 
     "tornada_sem_efeito": "", 
@@ -403,19 +390,6 @@
     "anexos": ", https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-27@@download/anexo_norma/Anexo 14 CFR Part 27 Amdt. 50.pdf"
   }, 
   {
-    "ementa": "Requisitos de Aeronavegabilidade: Aeronaves de Asas Rotativas Categoria Transporte", 
-    "norma": "RBAC 29 EMD 57", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "25/03/2022", 
-    "outros": "", 
-    "tipo_normatico": "RBAC", 
-    "publicacao": "29/03/2022", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 2 de maio de 2022", 
-    "anexos": ", https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-29@@download/anexo_norma/Anexo 14 CFR Part 29 Amdt. 57.pdf"
-  }, 
-  {
     "ementa": "Requisitos de Aeronavegabilidade: Aviões Categoria Transporte", 
     "norma": "RBAC 25 EMD 146", 
     "tornada_sem_efeito": "", 
@@ -443,7 +417,7 @@
   }, 
   {
     "ementa": "Requisitos para emissões de CO2 de aviões", 
-    "norma": "RBAC 38", 
+    "norma": "RBAC 38 EMD 0", 
     "tornada_sem_efeito": "", 
     "alterada": "", 
     "data": "03/02/2022", 
@@ -647,7 +621,7 @@
     "publicacao": "14/06/2023", 
     "revogada": "", 
     "em_vigor": "Em vigor em 2 de outubro de 2023", 
-    "anexos": ", https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137-emd-05@@download/anexo_norma/CEF RBAC 137.pdf"
+    "anexos": ", https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-137@@download/anexo_norma/CEF RBAC 137.pdf"
   }, 
   {
     "ementa": "Operações de transporte aéreo público com aviões com configuração máxima certificada de assentos para passageiros de mais 19 assentos ou capacidade máxima de carga paga acima de 3.400 kg", 
@@ -659,7 +633,7 @@
     "tipo_normatico": "RBAC", 
     "publicacao": "07/07/2023", 
     "revogada": "", 
-    "em_vigor": "Em vigor em 1º de agosto de 2023", 
+    "em_vigor": "Versão em vigor em 1º de agosto de 2023 - sem as alterações da Emenda nº 17", 
     "anexos": ""
   }, 
   {
@@ -672,7 +646,7 @@
     "tipo_normatico": "Portaria", 
     "publicacao": "07/07/2023", 
     "revogada": "", 
-    "em_vigor": "Em vigor em 1º de janeiro de 2024", 
+    "em_vigor": "Versão em vigor em 1º de janeiro de 2024 - com as alterações da Emenda nº 17", 
     "anexos": ""
   }, 
   {
@@ -738,7 +712,7 @@
     "publicacao": "15/08/2023", 
     "revogada": "", 
     "em_vigor": "Em vigor em 1º de setembro de 2023", 
-    "anexos": ", https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-29-emd-58@@download/anexo_norma/14_CFR_Part_29_Amdt_58_DATED_2023_01_18__Airworthiness_Standards__Transport_Category_Rotorcraft.pdf"
+    "anexos": ", https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-29@@download/anexo_norma/14_CFR_Part_29_Amdt_58_DATED_2023_01_18__Airworthiness_Standards__Transport_Category_Rotorcraft.pdf"
   }, 
   {
     "ementa": "Requisitos de Aeronavegabilidade: Aeronaves de Asas Rotativas Categoria Transporte", 
