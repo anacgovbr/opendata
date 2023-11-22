@@ -241,4 +241,19 @@ jobs:
         with:
           http_url: https://dedalo.sti.fab.mil.br/dadosabertos/recomendacao.csv
           downloaded_filename: cenipa/cenipa-tabela-recomendacao.csv              
-         
+#### REGULAMENTOS-ANAC-TAGS
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://raw.githubusercontent.com/gabrielmacedoanac/flat-data-anac/main/regulamentos-anac-tags.tsv
+          downloaded_filename: regulamentos-anac-tags.tsv
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://raw.githubusercontent.com/gabrielmacedoanac/flat-data-anac/main/regulamentos-anac-tags.csv
+          downloaded_filename: regulamentos-anac-tags.csv
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://raw.githubusercontent.com/gabrielmacedoanac/flat-data-anac/main/regulamentos-anac-tags.json
+          downloaded_filename: regulamentos-anac-tags.json          
