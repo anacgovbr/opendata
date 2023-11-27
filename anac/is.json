@@ -1378,19 +1378,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-145-151-001@@download/arquivo_norma/IS145.151-001E.pdf"
   }, 
   {
-    "ementa": "Processo de certificação de empresa de transporte aéreo regida pelo RBAC nº 135", 
-    "norma": "IS 119-004I", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "23/03/2022", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "25/03/2022", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 1º de abril de 2022.", 
-    "anexos": ""
-  }, 
-  {
     "ementa": "Padrões para a realização de exames de proficiência de pilotos.", 
     "norma": "IS 00-002G", 
     "tornada_sem_efeito": "", 
@@ -1963,19 +1950,6 @@
     "anexos": ""
   }, 
   {
-    "ementa": "Classificação de aeródromos e procedimentos para operação em aeródromos especiais segundo o RBAC nº 121", 
-    "norma": "IS 121-020A", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "21/09/2022", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "30/09/2022", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 1º de novembro de 2022", 
-    "anexos": ""
-  }, 
-  {
     "ementa": "Produção sob o RBAC 21 subpartes F, G, K e O", 
     "norma": "IS 21-006C", 
     "tornada_sem_efeito": "", 
@@ -2088,19 +2062,6 @@
     "outros": "", 
     "tipo_normatico": "IS", 
     "publicacao": "16/12/2022", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 2 de janeiro de 2023", 
-    "anexos": ""
-  }, 
-  {
-    "ementa": "Processo de certificação de empresa de transporte aéreo regida pelo RBAC nº 121", 
-    "norma": "IS 119-001K", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "22/12/2022", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "26/12/2022", 
     "revogada": "", 
     "em_vigor": "Em vigor em 2 de janeiro de 2023", 
     "anexos": ""
@@ -2855,6 +2816,32 @@
     "outros": "", 
     "tipo_normatico": "IS", 
     "publicacao": "17/11/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 1º de dezembro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Certificação de organizações de manutenção domésticas", 
+    "norma": "IS 145-001F", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/11/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "23/11/2023", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 1º de dezembro de 2023", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Manual da Organização de Manutenção e Manual de Controle da Qualidade", 
+    "norma": "IS 145-009D", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "21/11/2023", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "23/11/2023", 
     "revogada": "", 
     "em_vigor": "Em vigor em 1º de dezembro de 2023", 
     "anexos": ""
