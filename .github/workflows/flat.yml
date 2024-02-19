@@ -86,11 +86,14 @@ jobs:
         with:
           http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Dados%20P%C3%A1tio/V_AERODROMO_PUBLICO_DADOS_PATIO.json
           downloaded_filename: anac/aerodromos-publicos-dados-patio.json
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Dados%20P%C3%A1tio/pda_aerodromos_publicos_patio_aeronaves.json
-          downloaded_filename: anac/aerodromos-publicos-dados-patio-aeronaves.json
+# failed on Jan 12 in 2m 55s
+# Error: Error: Request failed with status code 404
+# Error: Workflow failed! Request failed with status code 404
+#      - name: Fetch data
+#        uses: githubocto/flat@v3
+#        with:
+#          http_url: https://sistemas.anac.gov.br/dadosabertos/Aerodromos/Aer%C3%B3dromos%20P%C3%BAblicos/Dados%20P%C3%A1tio/pda_aerodromos_publicos_patio_aeronaves.json
+#          downloaded_filename: anac/aerodromos-publicos-dados-patio-aeronaves.json
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
