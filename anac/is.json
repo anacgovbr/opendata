@@ -221,19 +221,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-142-001@@download/arquivo_norma/IS 142-001A.pdf"
   }, 
   {
-    "ementa": "Processo de certificação de empresa de transporte aéreo regida pelo RBAC nº 135.", 
-    "norma": "IS 119-000A", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "29/09/2017", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "29/09/2017\r\n", 
-    "revogada": "", 
-    "em_vigor": "", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-119-000@@download/arquivo_norma/IS119-000A.pdf"
-  }, 
-  {
     "ementa": "Procedimentos para credenciamento de comissário de voo como examinador em operador sob o RBAC nº 135.", 
     "norma": "IS 135-004A", 
     "tornada_sem_efeito": "", 
@@ -1300,19 +1287,6 @@
     "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-00-010@@download/arquivo_norma/IS00-010A.pdf"
   }, 
   {
-    "ementa": "Procedimentos para elaboração de programa de treinamento operacional de tripulantes de voo segundo o RBAC nº 121.", 
-    "norma": "IS 121-007B", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "12/06/2020", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "12/06/2020", 
-    "revogada": "", 
-    "em_vigor": "Em vigor em 1º de julho de 2020.", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-121-007@@download/arquivo_norma/IS-121-007B.pdf"
-  }, 
-  {
     "ementa": "Procedimentos para elaboração e efetivação de programas de treinamento operacional (PrTrnOp) para operações conduzidas segundo o RBAC nº 135.", 
     "norma": "IS 135-003D", 
     "tornada_sem_efeito": "", 
@@ -1795,15 +1769,15 @@
   }, 
   {
     "ementa": "Padrões mínimos de desempenho para testes AVSEC de operadores de aeródromos", 
-    "norma": "IS 107-002A", 
+    "norma": "IS 107-002B", 
     "tornada_sem_efeito": "", 
     "alterada": "", 
-    "data": "20/05/2022", 
+    "data": "22/12/2023", 
     "outros": "", 
     "tipo_normatico": "IS", 
-    "publicacao": "20/05/2022", 
+    "publicacao": "26/12/2023", 
     "revogada": "", 
-    "em_vigor": "Em vigor em 1º de junho de 2022", 
+    "em_vigor": "Em vigor em 2 de janeiro de 2024", 
     "anexos": ""
   }, 
   {
@@ -2091,19 +2065,6 @@
     "revogada": "", 
     "em_vigor": "Em vigor em 1º de março de 2023", 
     "anexos": ""
-  }, 
-  {
-    "ementa": "Programas de Instrução e Manual de Instruções e Procedimentos", 
-    "norma": "IS 141-007C", 
-    "tornada_sem_efeito": "", 
-    "alterada": "", 
-    "data": "16/02/2023", 
-    "outros": "", 
-    "tipo_normatico": "IS", 
-    "publicacao": "24/02/2023", 
-    "revogada": "", 
-    "em_vigor": "", 
-    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-007c@@download/arquivo_norma/IS 141-007C.pdf"
   }, 
   {
     "ementa": "Orientações e procedimentos para solicitação de licenças e habilitações e para a interação com a ANAC", 
@@ -2787,11 +2748,63 @@
     "tornada_sem_efeito": "", 
     "alterada": "", 
     "data": "20/12/2023", 
-    "outros": "", 
+    "outros": "Retificado no DOU de 03.01.2024, Seção 1, página 132\r\nRetificado no DOU de 19.01.2024, Seção 1, página 47", 
     "tipo_normatico": "IS", 
     "publicacao": "26/12/2023", 
     "revogada": "", 
     "em_vigor": "Em vigor em 2 de janeiro de 2024", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Programas de Instrução e Manual de Instruções e Procedimentos", 
+    "norma": "IS 141-007D", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "24/01/2024", 
+    "outros": "Retificada no DOU de 01/02/2024, Seção 1, página 52", 
+    "tipo_normatico": "IS", 
+    "publicacao": "25/01/2024", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 1º de fevereiro de 2024", 
+    "anexos": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/iac-e-is/is/is-141-007@@download/arquivo_norma/IS_141_007D (retificado).pdf"
+  }, 
+  {
+    "ementa": "Certificação de Organização de Projeto", 
+    "norma": "IS 21.231-001C", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "29/01/2024", 
+    "outros": "", 
+    "tipo_normatico": "CE/SC", 
+    "publicacao": "29/01/2024", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 1º de março de 2024", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Segurança da aviação contra atos de interferência ilícita – operador aéreo", 
+    "norma": "IS 108-001H", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "30/01/2024", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 1º de março de 2024", 
+    "anexos": ""
+  }, 
+  {
+    "ementa": "Segurança da aviação contra atos de interferência ilícita – operador de aeródromo", 
+    "norma": "IS 107-001K", 
+    "tornada_sem_efeito": "", 
+    "alterada": "", 
+    "data": "30/01/2024", 
+    "outros": "", 
+    "tipo_normatico": "IS", 
+    "publicacao": "", 
+    "revogada": "", 
+    "em_vigor": "Em vigor em 1º de março de 2024", 
     "anexos": ""
   }
 ]
