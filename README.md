@@ -21,4 +21,4 @@ The PURL concept allows people to curate HTTP URIs. PURLs let third-party contro
 ### Regulations
 
 * [Compiled Regulations - Flatdata Viewer (maximum recall)](https://flatgithub.com/anacgovbr/opendata?filename=regulamentos-anac-tags.csv) (pt)
-* [Compiled Regulations - Datasette lite (maximum precision)](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/anacgovbr/opendata/main/regulamentos-anac-tags.csv) (pt)
+* [Compiled Regulations - Datasette lite (maximum precision)](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/anacgovbr/opendata/main/regulamentos-anac-tags.csv#/data/regulamentos-anac-tags) (pt)
