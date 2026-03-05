@@ -31,5 +31,5 @@ _Precision_ and _recall_ metrics evaluate the effectiveness of information retri
 
 To understand how the system works, it is essential to know that there is an inversely proportional relationship between the two measures: configuring a system to achieve high recall (ensuring that no important document is left out) generally decreases precision (bringing more useless results along with it). The reverse is also true.
 
-[^1] G. Salton e M. E. Lesk, “The SMART automatic document retrieval systems—an illustration”, Commun. ACM, v. 8, n. 6, p. 391–398, jun. 1965, doi: 10.1145/364955.364990.
+[^1]: G. Salton e M. E. Lesk, “The SMART automatic document retrieval systems—an illustration”, Commun. ACM, v. 8, n. 6, p. 391–398, jun. 1965, doi: 10.1145/364955.364990.
 
