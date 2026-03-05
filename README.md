@@ -23,7 +23,9 @@ The PURL concept allows people to curate HTTP URIs. PURLs let third-party contro
 * [Compiled Regulations - Flatdata Viewer (maximum recall)](https://flatgithub.com/anacgovbr/opendata?filename=regulamentos-anac-tags.csv) (pt)
 * [Compiled Regulations - Datasette lite (maximum precision)](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/anacgovbr/opendata/main/regulamentos-anac-tags.csv#/data/regulamentos-anac-tags) (pt)
 
-_Precision_ and _recall_ metrics evaluate the effectiveness of information retrieval systems by measuring the rate of hits and the amount of useful information provided to the user.[^1] They work as follows:
+_Recall_ and _Precision_ metrics evaluate the effectiveness of information retrieval systems by measuring the rate of hits and the amount of useful information provided to the user.[^1]
+
+They work as follows:
 
 **Recall**: This is the proportion of relevant material that was effectively retrieved by the system. High recall means that the system was successful in finding and presenting a large portion of the pertinent information existing in the database for that search.
 
